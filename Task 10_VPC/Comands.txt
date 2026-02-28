@@ -1,0 +1,2 @@
+ssh -i key.pem ubuntu@<Public-APP-IP>
+ssh ubuntu@<Private-App-IP>
