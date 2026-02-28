@@ -1,0 +1,9 @@
+ssh -i ".\TrainingKEY.pem" ubuntu@13.232.229.232
+sudo apt update
+sudo install nginx
+sudo apt install nginx
+cd /var/www/html
+ls
+sudo rm -f index.nginx-debian.html
+sudo git clone https://github.com/SusovanDas19/Todo_Application_Frontend.git
+sudo mv Todo_Application_Frontend/* .
