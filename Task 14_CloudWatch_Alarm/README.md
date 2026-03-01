@@ -106,5 +106,5 @@ This task demonstrates effective monitoring, automation, and cost-optimization p
 
 ## 👤 Author
 
-Your Name  
+Susovan Das  
 Cloud & DevOps Practice Project
